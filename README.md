@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+An Elixir app for basics practice
 
 ## Installation
 
